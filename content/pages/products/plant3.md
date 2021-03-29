@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: € 5.90
-title: Curabitur eu tempor
+title: DOLCI DELLA TRADIZIONE
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
