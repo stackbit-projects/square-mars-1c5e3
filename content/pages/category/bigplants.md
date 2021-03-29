@@ -1,5 +1,5 @@
 ---
-title: Cioccola to di Modica
+title: Cioccolato di Modica
 layout: category
 order: 1
 ---
