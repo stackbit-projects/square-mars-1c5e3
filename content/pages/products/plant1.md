@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '5.00'
+price: € 2.50
 title: DOLCE ARTE
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
