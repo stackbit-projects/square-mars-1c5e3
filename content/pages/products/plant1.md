@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '5.00'
-title: 'DOLCE '
+title: DOLCE ARTE
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
